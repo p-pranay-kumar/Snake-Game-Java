@@ -36,7 +36,10 @@ This project is a classic implementation of the Snake Game using Java and Swing 
 
 ## Screenshots
 
-![Gameplay Screenshot](path/to/screenshot.png)
+![snakepic1](https://github.com/p-pranay-kumar/Snake-Game-Java/assets/100279756/fad59083-d923-4ddf-bb07-6f33971c3e49)
+![snake2](https://github.com/p-pranay-kumar/Snake-Game-Java/assets/100279756/adf3a915-081d-41ec-8b52-a507e147e74d)
+![snake3](https://github.com/p-pranay-kumar/Snake-Game-Java/assets/100279756/914f17bb-e586-46a7-a888-2feedd420f62)
+
 
 ## Contributing
 
